@@ -28,6 +28,12 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+### The server is ready to run
+![image](https://github.com/user-attachments/assets/93bedf7e-4c8c-40ae-a7f0-6d8c1fda6f7d)
+
+## To use todo app using API Endpoint we can use
+- [cURL](https://github.com/curl/curl/blob/master/docs/MANUAL.md), a CLI tool to transfer data from a server
+- [Postman](https://www.postman.com/downloads/), A platform used to design, build and test APIs
 
 
 
