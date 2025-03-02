@@ -16,7 +16,6 @@ Develop a Simple REST API for a ToDo App. The application should have the follow
 ## Result
 https://github.com/user-attachments/assets/8a6dda59-1a4e-4053-af74-da5c3ab29280
 
-
 # Creating the REST API using Flask
 ### Creating and Enabling Virtual Environment
 ```
@@ -36,6 +35,8 @@ python app.py
 - [Postman](https://www.postman.com/downloads/), A platform used to design, build and test APIs
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
 # 4. Data Engineering
 - Download the ([IndianPlacesToVisit.csv](https://github.com/user-attachments/files/19041963/IndianPlacesToVisit.csv)), courtesy of [Kaggle](https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places)
 - Create an Algorithm to rank weekend Places to travel given city name
