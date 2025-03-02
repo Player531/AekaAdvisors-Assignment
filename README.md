@@ -11,4 +11,14 @@ Develop a Simple REST API for a ToDo App. The application should have the follow
 - Store user information in a database
 - Create, Update and Delete API Endpoint
 - Store entries in a Database
+
+
+# RESULT
+https://github.com/user-attachments/assets/8a6dda59-1a4e-4053-af74-da5c3ab29280
+
+  
+
+### Creating the REST API using Flask
+
+
   
