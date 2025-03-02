@@ -1,7 +1,7 @@
 # AekaAdvisors-Assignment
 This is an assignment given by Aeka Advisors to Chirag Barbhaya. The task is to do atleast 2 assignments.
 I have selected these two:
-- 2) REST Backend Project
+- \2) REST Backend Project
 - 4) Data Engineering
 
 # 2. REST Backend Project
